@@ -1,0 +1,10 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    ".fantomasignore": "ignore",
+    "stack": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "xstring": "cpp"
+  }
+}
