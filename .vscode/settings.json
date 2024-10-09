@@ -5,6 +5,13 @@
     "stack": "cpp",
     "deque": "cpp",
     "format": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "xlocinfo": "cpp",
+    "xutility": "cpp"
   }
 }
